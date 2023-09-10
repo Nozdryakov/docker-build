@@ -1,3 +1,3 @@
 <?php
-echo "It`s work!";
+echo "docker-build 10.09.2023 -version 1.02";
 ?>
